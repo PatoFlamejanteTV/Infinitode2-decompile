@@ -1,0 +1,25 @@
+/*    */ package com.vladsch.flexmark.util.misc;
+/*    */ 
+/*    */ import java.util.Collection;
+/*    */ import java.util.Collections;
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ public interface Extension
+/*    */ {
+/* 18 */   public static final Collection<Extension> EMPTY_LIST = Collections.emptyList();
+/*    */ }
+
+
+/* Location:              C:\Program Files (x86)\Steam\steamapps\common\Infinitode 2\infinitode-2.jar!\com\vladsch\flexmar\\util\misc\Extension.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

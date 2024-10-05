@@ -1,0 +1,15 @@
+/*   */ package com.vladsch.flexmark.formatter;
+/*   */ 
+/*   */ public enum FormattingPhase {
+/* 4 */   COLLECT,
+/* 5 */   DOCUMENT_FIRST,
+/* 6 */   DOCUMENT_TOP,
+/* 7 */   DOCUMENT,
+/* 8 */   DOCUMENT_BOTTOM;
+/*   */ }
+
+
+/* Location:              C:\Program Files (x86)\Steam\steamapps\common\Infinitode 2\infinitode-2.jar!\com\vladsch\flexmark\formatter\FormattingPhase.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
